@@ -4,7 +4,7 @@
 	"nav-label-01": "Summary",
 	"nav-label-02": "Details",
 	"nav-label-03": "Usage",
-	"nav-label-04": "energy plan",
+	"nav-label-04": "energy planS",
 	"nav-label-05": "Help",
 	"account-summary": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/f5b595c0eb55562bda5885ba9f07adbc.png",
 	"bill-card": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/9b4a0ea685a2046f100031b5aefa6c80.png",
@@ -30,5 +30,6 @@
 	"plan-tab-label-02": "Rates",
 	"plan-tab-content-01": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/af5ac7a84f64a467ea51cb32915ac958.png",
 	"plan-tab-content-02": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/e9d4127758aa77245e21dc7f35d919d7.png",
-	"help-tab-content-01": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/4ddd575623fae02680c0e1d4312389dd.png"
+	"help-tab-content-01": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/4ddd575623fae02680c0e1d4312389dd.png",
+	"help-tab-content-02": "ucp/help2.png"
 }
